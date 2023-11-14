@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on a Discord Bot **Botty**
 
-- 🤝 I’m looking for help with **web-development and AI projects**
-
 - 👨‍💻 All of my projects are available at [https://guygeorges-adou-bogolo.super.site/](https://guygeorges-adou-bogolo.super.site/)
 
 - 📝 I regularly write articles on [https://medium.com/@aboubogolo](https://medium.com/@aboubogolo)
