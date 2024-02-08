@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guy-Georges Adou Bogolo</h1>
-<h3 align="center">I'm a student studying Information Systems passionate about automation, AI and web development </h3>
+<h3 align="center">I'm a recent grad with a bachelor of science in Information Systems. I am passionate about building great products, automation, AI, web development and design </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guyadou&label=Profile%20views&color=0e75b6&style=flat" alt="guyadou" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://guygeorges-adou-bogolo.super.site/](https://guygeorges-adou-bogolo.super.site/)
 
-- 📝 I regularly write articles on [https://medium.com/@aboubogolo](https://medium.com/@aboubogolo)
+- 📝 I write articles on [https://medium.com/@aboubogolo](https://medium.com/@aboubogolo)
 
 - 📫 How to reach me **aboubogolo@gmail.com**
 
