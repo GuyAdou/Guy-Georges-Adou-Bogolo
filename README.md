@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aboubogolo@gmail.com**
 
-- 📄 Know about my experiences [https://guygeorges-adou-bogolo.super.site/resume](https://guygeorges-adou-bogolo.super.site/resume)
+- 📄 Know about my experiences [[(https://guygeorges-adou-bogolo.super.site/)](https://guygeorges-adou-bogolo.super.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
